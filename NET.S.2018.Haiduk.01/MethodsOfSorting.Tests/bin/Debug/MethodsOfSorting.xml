@@ -1,0 +1,37 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>MethodsOfSorting</name>
+    </assembly>
+    <members>
+        <member name="T:MethodsOfSorting.SortingClass">
+            <summary>
+            Class that contains methods of Quick Sorting and Merge Sorting of integer arrays
+            </summary>
+        </member>
+        <member name="M:MethodsOfSorting.SortingClass.MergeSorting(System.Int32[])">
+            <summary>
+            This method divides unsorted array in half and sends them to sorting method
+            </summary>
+            <param name="arr">initial unsorted array</param>
+            <returns>sorted by merging array</returns>
+        </member>
+        <member name="M:MethodsOfSorting.SortingClass.Merging(System.Int32[],System.Int32[])">
+            <summary>
+            This method sorts 2 accepted arrays by merging
+            </summary>
+            <param name="arr1">1st accepted array</param>
+            <param name="arr2">2nd accepted array</param>
+            <returns>sorted by merging array</returns>
+        </member>
+        <member name="M:MethodsOfSorting.SortingClass.QuickSorting(System.Int32[],System.Int32,System.Int32)">
+            <summary>
+            This method sorts accepted array by Quick sorting
+            </summary>
+            <param name="arr">initial unsorted array</param>
+            <param name="start">index of first element of accepted array</param>
+            <param name="end">index of last element of accepted array</param>
+            <returns>sorted array by Quick sorting</returns>
+        </member>
+    </members>
+</doc>

@@ -1,0 +1,7 @@
+C:\Users\krl_g\source\repos\NET.S.2018.Haiduk.01\MethodsOfSorting\bin\Debug\MethodsOfSorting.dll
+C:\Users\krl_g\source\repos\NET.S.2018.Haiduk.01\MethodsOfSorting\bin\Debug\MethodsOfSorting.pdb
+C:\Users\krl_g\source\repos\NET.S.2018.Haiduk.01\MethodsOfSorting\obj\Debug\MethodsOfSorting.csprojResolveAssemblyReference.cache
+C:\Users\krl_g\source\repos\NET.S.2018.Haiduk.01\MethodsOfSorting\obj\Debug\MethodsOfSorting.csproj.CoreCompileInputs.cache
+C:\Users\krl_g\source\repos\NET.S.2018.Haiduk.01\MethodsOfSorting\obj\Debug\MethodsOfSorting.dll
+C:\Users\krl_g\source\repos\NET.S.2018.Haiduk.01\MethodsOfSorting\obj\Debug\MethodsOfSorting.pdb
+C:\Users\krl_g\source\repos\NET.S.2018.Haiduk.01\MethodsOfSorting\bin\Debug\MethodsOfSorting.xml
